@@ -1,0 +1,60 @@
+Optimization Results Summary
+==========================
+
+Ackley Problem:
+-------------
+PSO:
+  Best Value: 14.459676
+  Mean ± Std: 17.188037 ± 1.347825
+  Time: 0.56 seconds
+SecVibratPSO:
+  Best Value: 0.098898
+  Mean ± Std: 1.855188 ± 0.788845
+  Time: 0.54 seconds
+SA:
+  Best Value: 20.499620
+  Mean ± Std: 20.816063 ± 0.117631
+  Time: 0.01 seconds
+GA:
+  Best Value: 5.483773
+  Mean ± Std: 7.204467 ± 1.237212
+  Time: 1.13 seconds
+
+G06 Problem:
+-------------
+PSO:
+  Best Value: -6954.420493
+  Mean ± Std: -6914.533353 ± 31.418511
+  Time: 0.22 seconds
+SecVibratPSO:
+  Best Value: -6961.805113
+  Mean ± Std: -6954.102973 ± 8.988153
+  Time: 0.25 seconds
+SA:
+  Best Value: -6826.242010
+  Mean ± Std: -5559.284552 ± 1816.590065
+  Time: 0.01 seconds
+GA:
+  Best Value: -6868.072873
+  Mean ± Std: -6117.428553 ± 717.119907
+  Time: 0.62 seconds
+
+Knapsack Problem:
+-------------
+PSO:
+  Best Value: -6888.376484
+  Mean ± Std: -6244.442677 ± 1356.615968
+  Time: 2.03 seconds
+SecVibratPSO:
+  Best Value: -6869.588340
+  Mean ± Std: -6701.444897 ± 92.825705
+  Time: 2.13 seconds
+SA:
+  Best Value: 17648.262251
+  Mean ± Std: 38251.869667 ± 12859.140669
+  Time: 0.04 seconds
+GA:
+  Best Value: -6460.972698
+  Mean ± Std: -6143.398623 ± 177.282573
+  Time: 3.66 seconds
+
